@@ -1,0 +1,17 @@
+<wiidisc version="1">
+	<id game="SMN" />
+	<options>
+		<section name="NSMB Music Randomizer (NSMRWii)">
+			<option name="Use Randomized Music">
+				<choice name="Enabled">
+					<patch id="randomized_music" />
+				</choice>
+			</option>
+			</option>
+		</section>
+	</options>
+	<patch id="randomized_music">
+		<folder external="/nsmb_randomized_music" recursive="true" />
+		<folder external="/nsmb_randomized_music" disc="/Sound/stream" />
+	</patch>
+</wiidisc>

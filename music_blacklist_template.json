@@ -1,0 +1,11 @@
+{
+    # remove the comments before using this file
+    "blacklisted_files": [
+        "staffcredit_lr.ry.32.brstm", # Credits theme.
+        "STRM_BGM_MINIGAME.brstm",# Enemy Ambush Cleared.
+        "BGM_MINIGAME_FANFARE_BAD.32.brstm", # Bad Card match (Power-up Panels). 
+        "BGM_MINIGAME_FANFARE_GOOD.32.brstm", # All Power-ups obtained (Power-up Panels).
+        "BGM_MINIGAME_FANFARE_KOOPA.32.brstm", # Unused file (content is empty).
+        "switch_lr.n.32.brstm" # P-Switch, ?-Switch, and !-Switch Jingle. 
+    ]
+}
